@@ -1,0 +1,2 @@
+old scratch note: wheel offsets were wrong
+clear this file before the field test
