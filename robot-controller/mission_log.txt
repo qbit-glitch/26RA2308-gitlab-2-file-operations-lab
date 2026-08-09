@@ -1,0 +1,15 @@
+08:00 Asha: bench power on, starting the day
+08:10 Ben: route plan v1 loaded on the planner
+08:25 Chitra: camera calibration started
+08:40 Asha: motor driver flashed, left wheel spins
+09:00 Ben: obstacle map exported for the field
+09:15 Chitra: detector threshold set to 0.40
+09:30 Asha: right wheel is slow, offset needed
+10:00 Ben: field site confirmed with the farm
+10:20 Chitra: detector false alarms on shadows
+10:45 Asha: offsets applied, wheels now match
+11:05 Ben: battery swapped, charge at 82 percent
+11:30 Chitra: shadow filter added to the detector
+11:50 Asha: firmware frozen for the field test
+12:05 Ben: rover loaded on the truck
+12:20 Chitra: camera cleaned, ready to roll
